@@ -5,7 +5,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-0.74-blue?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-SDK%2053-black?style=flat-square&logo=expo)
 ![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-orange?style=flat-square&logo=firebase)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ## 🌟 Features
 
