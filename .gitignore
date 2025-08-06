@@ -32,8 +32,39 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
 
 # typescript
 *.tsbuildinfo
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# IDE - IntelliJ
+.idea/
+
+# Logs
+logs
+*.log
+
+# ESLint cache
+.eslintcache
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Temporary folders
+tmp/
+temp/
 
 app-example
