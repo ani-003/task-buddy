@@ -72,7 +72,20 @@
 
 ## 📸 Screenshots
 
-*Coming soon! Working on making the app look even better* 😊
+<div align="center">
+  <img src="https://res.cloudinary.com/dksqqbveo/image/upload/v1754637445/IMG-20250806-WA0003_cag60r.jpg" alt="TaskBuddy Home Screen" width="250" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dksqqbveo/image/upload/v1754637445/IMG-20250806-WA0006_wc9prv.jpg" alt="Add Task Modal" width="250" style="margin: 10px;">
+  <img src="https://res.cloudinary.com/dksqqbveo/image/upload/v1754637445/IMG-20250806-WA0004_xwo99g.jpg" alt="Dark Theme View" width="250" style="margin: 10px;">
+</div>
+
+<p align="center">
+  <em>TaskBuddy in action - Home screen, Add task modal, and dark theme support!</em>
+</p>
+
+### What you can see:
+- 🏠 **Clean home interface** with task overview and calendar integration
+- ➕ **Intuitive task creation** with priority selection and date picker
+- 🌙 **Beautiful dark theme** that's easy on the eyes
 
 ## 🎯 Roadmap
 
